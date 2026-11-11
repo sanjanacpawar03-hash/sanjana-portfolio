@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+SANJANA PORTFOLIO REFRESH
+
+Replace these three files in your existing Next.js project:
+- app/page.tsx
+- app/globals.css
+- app/layout.tsx
+
+Keep your existing portrait at public/profile.png (the page expects this exact path).
+Make sure dependencies are installed:
+  npm install framer-motion lucide-react
+Then run:
+  npm run dev
+
+This is for your existing Next.js App Router + TypeScript + Tailwind project.
+Resume details were taken from the information previously shared. Verify dates, CGPAs, and descriptions before publishing.
