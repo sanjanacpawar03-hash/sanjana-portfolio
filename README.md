@@ -100,4 +100,50 @@ A machine learning-based application designed to analyse and predict clinic wait
 
 A multimodal classification project combining image and text processing to identify hateful content in memes.
 
-**Technologies:** Python, ResNet-50, BERT,
+**Technologies:** Python, ResNet-50, BERT, Flask.
+
+[View Project Repository](https://github.com/sanjanacpawar03-hash/multimodal-hateful-meme-detection)
+
+## Technical Skills
+
+- **Programming:** Python, Java, SQL, JavaScript
+- **Data Analytics:** Excel, Power BI, Pandas, NumPy, Plotly
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras, NLP, SHAP
+- **Web Development:** HTML, CSS, React.js, Flask, FastAPI
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+## Certifications
+
+- Preparing Data for Analysis with Microsoft Excel
+- Harnessing the Power of Data with Power BI
+- Extract, Transform and Load Data in Power BI
+- Data Modeling in Power BI
+- Data Analysis and Visualization with Power BI
+- Creative Designing in Power BI
+- Microsoft PL-300 Exam Preparation and Practice
+
+*Certifications completed through Microsoft and Coursera. PL-300 Exam Preparation and Practice is a course, not a claim of passing the PL-300 certification exam.*
+
+## Contact
+
+- **Email:** sanjanacpawar03@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sanjana-chandrakanth-pawar-180997371/
+- **GitHub:** https://github.com/sanjanacpawar03-hash
+
+## Build Check
+
+```bash
+npm run build
+```
+
+## Deployment
+
+This portfolio is designed for deployment on Vercel.
+
+1. Push the project to GitHub.
+2. Sign in to Vercel using GitHub.
+3. Import the `sanjana-portfolio` repository.
+4. Keep the detected Next.js configuration.
+5. Deploy the project.
+6. Test the deployed website on desktop and mobile devices.
