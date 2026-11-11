@@ -2,6 +2,8 @@
 
 **Analyst · Developer**
 
+🌐 **Live Portfolio:** [Visit My Portfolio](https://sanjana-portfolio-ruddy.vercel.app/)
+
 A responsive personal portfolio showcasing my education, technical skills, internship experience, projects, and professional certifications.
 
 Built with Next.js 16, React, TypeScript, Tailwind CSS, Framer Motion, Lucide React, and custom CSS.
