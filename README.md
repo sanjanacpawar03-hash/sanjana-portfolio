@@ -1,56 +1,103 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sanjana Chandrakanth Pawar
 
-## Getting Started
+**Analyst · Developer**
 
-First, run the development server:
+A responsive personal portfolio showcasing my education, technical skills, internship experience, projects, and professional certifications.
+
+Built with Next.js 16, React, TypeScript, Tailwind CSS, Framer Motion, Lucide React, and custom CSS.
+
+## Visual Direction
+
+- Deep navy background (#081521)
+- Teal accent (#16A6A1) and aqua highlights (#8CD9D0)
+- Clean, modern typography
+- Premium minimal design
+- Smooth scroll animations and interactive hover effects
+- Responsive desktop and mobile navigation
+- Animated background elements
+
+## Technologies Used
+
+- Next.js
+- React.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- React Icons
+
+## Requirements
+
+- Node.js 20.9 or later
+- Git
+- Visual Studio Code
+
+## Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sanjanacpawar03-hash/sanjana-portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd sanjana-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Education
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Master of Computer Applications (MCA)**  
+  Bapuji Institute of Engineering & Technology, Davangere  
+  2024–2026 | CGPA: 8.0/10
 
-## Learn More
+- **Bachelor of Computer Applications (BCA)**  
+  Global Innovative College of BCA, Hubballi  
+  2021–2024 | CGPA: 8.43/10
 
-To learn more about Next.js, take a look at the following resources:
+## Internship Experience
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Data Science Intern – Apponix Technologies**  
+February 2026 – May 2026
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Worked on data analysis and machine learning concepts.
+- Gained practical experience with Python, Pandas, NumPy, and Scikit-learn.
+- Worked on data preprocessing, exploratory data analysis, and predictive modelling.
 
-## Deploy on Vercel
+**Web Development Intern – Apponix Technologies**  
+April 2024 – June 2024
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Worked with a four-member development team.
+- Gained experience in HTML, CSS, JavaScript, React.js, and SQL.
+- Worked with REST APIs, backend queries, testing, and documentation.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Featured Projects
 
+### 1. Clinic Waiting Time Analysis & Prediction
 
+A machine learning-based application designed to analyse and predict clinic waiting times.
 
+**Technologies:** Python, Streamlit, FastAPI, SQLite, Pandas, NumPy, Plotly, Scikit-learn, TensorFlow, SHAP.
 
+[View Project Repository](https://github.com/sanjanacpawar03-hash/clinic-waiting-time-analysis)
 
-SANJANA PORTFOLIO REFRESH
+### 2. Multimodal Hateful Meme Detection Using ResNet and BERT
 
-Replace these three files in your existing Next.js project:
-- app/page.tsx
-- app/globals.css
-- app/layout.tsx
+A multimodal classification project combining image and text processing to identify hateful content in memes.
 
-Keep your existing portrait at public/profile.png (the page expects this exact path).
-Make sure dependencies are installed:
-  npm install framer-motion lucide-react
-Then run:
-  npm run dev
-
-This is for your existing Next.js App Router + TypeScript + Tailwind project.
-Resume details were taken from the information previously shared. Verify dates, CGPAs, and descriptions before publishing.
+**Technologies:** Python, ResNet-50, BERT,
